@@ -1,0 +1,17 @@
+{
+  "name": "genpark-r-star-tree-spatial-indexer-skill",
+  "version": "1.0.0",
+  "description": "R*-Tree multi-dimensional spatial indexing engine minimizing bounding box area, margin, and overlap for lightning-fast spatial range filters.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "r-star-tree",
+    "spatial-index",
+    "bounding-box",
+    "range-query",
+    "gis"
+  ],
+  "dependencies": []
+}
